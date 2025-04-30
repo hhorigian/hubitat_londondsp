@@ -9,6 +9,7 @@ Driver para o DSP London Soundweb - BLU-101
 
 
 /* *********  Dashboard Settings  ********* */
+
 	.dashBack { display: none; } 
 	.dashName { display: none; } 
 
@@ -30,12 +31,14 @@ Driver para o DSP London Soundweb - BLU-101
 }
 
 /* *********  Tile Settings   *********  */
+
 .tile {background-size: 50% !important;} 
 .tile {background-color: #58575c;} 
 
 
 
 /* *********  Remove Player, next, music Player Settings   *********  */
+
 
 .material-icons.music-player.nextTrack
 {display: none;}
@@ -47,6 +50,7 @@ Driver para o DSP London Soundweb - BLU-101
 
 
 /* *********  Output Tile Settings   *********  */
+
 .material-icons.music-player.unmute 
  { color: red }
 .material-icons.music-player.mute 
@@ -55,6 +59,7 @@ Driver para o DSP London Soundweb - BLU-101
 
 
 /* *********  Output Tile Settings   *********  */
+
 #tile-20 .dimmer, #tile-19 .dimmer,  #tile-18 .dimmer, #tile-17 .dimmer, #tile-16 .dimmer, #tile-15 .dimmer, #tile-14 .dimmer, #tile-13 .dimmer
 { visibility: hidden; }
 
