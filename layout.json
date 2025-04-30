@@ -1,0 +1,238 @@
+{
+  "localization": "English",
+  "roundedCorners": 0,
+  "dateFormat": "MM/DD/YYYY",
+  "hideLabels": true,
+  "customColors": [
+    {
+      "template": "music-player",
+      "bgColor": "rgb(62,59,59)",
+      "iconColor": "",
+      "state": "default"
+    }
+  ],
+  "colWidth": 150,
+  "cloudRefresh": 5,
+  "hsmPin": "bnVsbA==",
+  "hide3dot": true,
+  "clockMode": true,
+  "gridGap": 5,
+  "goBack": true,
+  "tiles": [
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 1,
+      "colSpan": 1,
+      "id": 1,
+      "row": 1,
+      "device": "2715"
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 2,
+      "colSpan": 1,
+      "id": 2,
+      "row": 3,
+      "device": "2724",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 3,
+      "colSpan": 1,
+      "id": 3,
+      "row": 3,
+      "device": "2725",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 4,
+      "colSpan": 1,
+      "id": 4,
+      "row": 3,
+      "device": "2726",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 2,
+      "colSpan": 1,
+      "id": 5,
+      "row": 1,
+      "device": "2716",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 3,
+      "colSpan": 1,
+      "id": 6,
+      "row": 1,
+      "device": "2717",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 4,
+      "colSpan": 1,
+      "id": 7,
+      "row": 1,
+      "device": "2718",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 1,
+      "colSpan": 1,
+      "id": 8,
+      "row": 2,
+      "device": "2719",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 2,
+      "colSpan": 1,
+      "id": 9,
+      "row": 2,
+      "device": "2720",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 3,
+      "colSpan": 1,
+      "id": 10,
+      "row": 2,
+      "device": "2721",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 4,
+      "colSpan": 1,
+      "id": 11,
+      "row": 2,
+      "device": "2722",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 1,
+      "colSpan": 1,
+      "id": 12,
+      "row": 3,
+      "device": "2723",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 1,
+      "colSpan": 1,
+      "id": 13,
+      "row": 4,
+      "device": "2727",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 2,
+      "colSpan": 1,
+      "id": 14,
+      "row": 4,
+      "device": "2728",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 3,
+      "colSpan": 1,
+      "id": 15,
+      "row": 4,
+      "device": "2729",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 4,
+      "colSpan": 1,
+      "id": 16,
+      "row": 4,
+      "device": "2730",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 1,
+      "colSpan": 1,
+      "id": 17,
+      "row": 5,
+      "device": "2731",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 2,
+      "colSpan": 1,
+      "id": 18,
+      "row": 5,
+      "device": "2732",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 3,
+      "colSpan": 1,
+      "id": 19,
+      "row": 5,
+      "device": "2733",
+      "templateExtra": null
+    },
+    {
+      "rowSpan": 1,
+      "template": "music-player",
+      "col": 4,
+      "colSpan": 1,
+      "id": 20,
+      "row": 5,
+      "device": "2734",
+      "templateExtra": null
+    }
+  ],
+  "bgColor": "#282828",
+  "lanRefresh": 2,
+  "modesPin": "",
+  "iconSize": 42,
+  "cols": 4,
+  "customCSS": "/* *********  Dashboard Settings  ********* */\n\t.dashBack { display: none; } \n\t.dashName { display: none; } \n\n.tile {background-size: contain !important;} \n\n.dashboard div .header {\n    position: fixed;\n    bottom: -0.5em;\n    right: 0.5em;\n    z-index: 999;\n    opacity: 1.0;\n    zoom: 1.0;\n    -moz-transform:scale(1.0);\n}\n.wrapper {\n    height: 100%;\n    margin-top: 0;\n    padding-top: 0.5em;\n}\n\n/* *********  Tile Settings   *********  */\n.tile {background-size: 50% !important;} \n.tile {background-color: #58575c;} \n\n\n\n/* *********  Remove Player, next, music Player Settings   *********  */\n\n.material-icons.music-player.nextTrack\n{display: none;}\n.material-icons.music-player.previousTrack\n{display: none;}\n.trackDescription { visibility: hidden; }\n.material-icons.music-player.previousTrack\n{display: none;}\n\n\n/* *********  Output Tile Settings   *********  */\n.material-icons.music-player.unmute \n { color: red }\n.material-icons.music-player.mute \n { color: green }\n\n\n\n/* *********  Output Tile Settings   *********  */\n#tile-20 .dimmer, #tile-19 .dimmer,  #tile-18 .dimmer, #tile-17 .dimmer, #tile-16 .dimmer, #tile-15 .dimmer, #tile-14 .dimmer, #tile-13 .dimmer\n{ visibility: hidden; }\n\n#tile-20 .material-icons.music-player.mute, #tile-19 .material-icons.music-player.mute,  #tile-18 .material-icons.music-player.mute, #tile-17 .material-icons.music-player.mute, #tile-16 .material-icons.music-player.mute, #tile-15 .material-icons.music-player.mute, #tile-14 .material-icons.music-player.mute, #tile-13 .material-icons.music-player.mute\n { font-size :40px !important; margin-top: 20px; color: green }\n\n#tile-20 .tile-title , #tile-19 .tile-title ,  #tile-18 .tile-title , #tile-17 .tile-title , #tile-16 .tile-title , #tile-15 .tile-title , #tile-14 .tile-title , #tile-13 .tile-title \n{ \t\tfont-size: 14px !important;\n\t\ttext-align: Center !important;\n}\n\n#tile-20 .material-icons.music-player.unmute, #tile-19 .material-icons.music-player.unmute,  #tile-18 .material-icons.music-player.unmute, #tile-17 .material-icons.music-player.unmute, #tile-16 .material-icons.music-player.unmute, #tile-15 .material-icons.music-player.unmute, #tile-14 .material-icons.music-player.unmute, #tile-13 .material-icons.music-player.unmute\n { font-size :40px !important; margin-top: 20px; color: red }\n\n\n",
+  "rowHeight": 150,
+  "hideEvents": false,
+  "noColors": false,
+  "tempScale": "C",
+  "readOnly": null,
+  "rows": 5,
+  "hideIconText": true,
+  "hideTextShadow": true,
+  "name": "1-DashDSP",
+  "fontSize": 12
+}
