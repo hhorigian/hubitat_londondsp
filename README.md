@@ -1,8 +1,11 @@
 # hubitat_londondsp
 Driver para o DSP London Soundweb - BLU-101
 
+- Precisa de 3 componentes: O Driver para o Controller, o driver para os inputs, e o driver para os output.
+- Exemplo de Layout(Dashboard) layout.json
 - Documentação do produto: https://bssaudio.com/en/products/blu-101
-
+- Embaixo um exemplo CSS para edição dos tiles
+  
 
 
 /* *********  Dashboard Settings  ********* */
